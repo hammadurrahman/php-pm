@@ -5,3 +5,4 @@
 /web/
 composer.lock
 .phpunit.result.cache
+.phpunit.result.cache
